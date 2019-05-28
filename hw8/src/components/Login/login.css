@@ -1,0 +1,7 @@
+.login-page {
+  max-width: 250px;
+}
+.login-page form {
+  display: flex;
+  flex-flow: column nowrap;
+}

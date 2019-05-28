@@ -1,0 +1,11 @@
+.searchResult {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.search > div:first-of-type {
+  text-align: center;
+  margin: 10px auto;
+}

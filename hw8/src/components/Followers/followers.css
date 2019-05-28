@@ -1,0 +1,13 @@
+.followers {
+  margin-top: 30px;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: flex-start;
+}
+.followers .user-page {
+  padding: 20px;
+}
+.followers .user-photo {
+  max-width: 80px;
+}

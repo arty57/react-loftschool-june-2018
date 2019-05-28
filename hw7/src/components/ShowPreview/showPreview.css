@@ -1,0 +1,17 @@
+.showPreview {
+  flex: 1 1 25%;
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+a.title {
+  font-size: 24px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.summary {
+  text-align: center;
+}
